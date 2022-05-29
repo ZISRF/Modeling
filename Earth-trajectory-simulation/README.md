@@ -1,1 +1,0 @@
-![Demo](https://github.com/ZISRF/Modeling/blob/master/Earth-trajectory-simulation/demo.png)
