@@ -1,7 +1,7 @@
-![x(t)](x(t).jpg) ![y(t)](y(t).jpg)
+![x(t)](plots/x(t).jpg) ![y(t)](plots/y(t).jpg)
 
-![Vx(t)](Vx(t).jpg) ![Vy(t)](Vy(t).jpg)
+![Vx(t)](plots/Vx(t).jpg) ![Vy(t)](plots/Vy(t).jpg)
 
-![Ax(t)](Ax(t).jpg) ![Ay(t)](Ay(t).jpg)
+![Ax(t)](plots/Ax(t).jpg) ![Ay(t)](plots/Ay(t).jpg)
 
-![y(x)](y(x).jpg)
+![y(x)](plots/y(x).jpg)
