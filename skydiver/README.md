@@ -1,4 +1,4 @@
-## Modeling No. 1 "Skydiver"
+## Simulation No. 1 "Skydiver"
 #### The purpose of the work is to visualize the skydiving process
 * Jump height - 3000 m
 * Parachute opening height - 1000 m
