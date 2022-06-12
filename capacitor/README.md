@@ -1,11 +1,11 @@
 ## Simulation No. 1 "Capacitor"
 #### The purpose of the work is to visualize the trajectory of a particle in a flat capacitor
-* Jump height - 3000 m
-* Parachute opening height - 500 m
-* Aircraft speed - 100 m/s
-* Mass of a person - 70 kg
-* Parachute air resistance - 56
-* Human air resistance - 10
+* Particle - positron
+* Ox speed - 0 m/s
+* Oy speed - 100 m/s
+* Сondenser area - 1 m^2
+* Сapacitor distance - 1 m
+* The dielectric constant - 1
 
 ![X(t)](plots/X(t).jpg) ![Y(t)](plots/Y(t).jpg)
 
