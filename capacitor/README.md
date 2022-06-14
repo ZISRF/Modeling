@@ -5,6 +5,7 @@
 * Oy speed - 100 m/s
 * Сondenser area - 1 m^2
 * Сapacitor distance - 1 m
+* Capacitor height - 1 m
 * The dielectric constant - 1
 
 ![Y(X)](plots/Y(X).jpg)
